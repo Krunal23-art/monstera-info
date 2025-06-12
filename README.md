@@ -1,4 +1,6 @@
 # monstera-info
+![image](https://github.com/user-attachments/assets/d12164c0-58f8-4965-8858-3168e12d30f9)
+
 
 Plant Information Page: Monstera Deliciosa (Swiss Cheese Plant)
 
