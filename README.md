@@ -4,8 +4,8 @@
 Plant Information Page: Monstera Deliciosa (Swiss Cheese Plant)
 
 Common Names:
-Monstera
-Swiss Cheese Plant
+Monstera,
+Swiss Cheese Plant,
 Split-leaf Philodendron (although not a true philodendron)
 
 Scientific Name:
